@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nelson Y. S. Lam"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow in Chemistry"
+  bio              : "Postdoctoral Researcher and Lindemann Fellow in Chemistry"
   location         : "San Diego, CA"
   employer         : "The Scripps Research Institute"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=kfa0E-UAAAAJ&hl=en"
   email            : "nelam@scripps.edu"
   researchgate     : "https://www.researchgate.net/profile/Nelson_Lam"
   uri              :
