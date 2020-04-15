@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nelson Y. S. Lam"
-  avatar           : "profile.png"
+  avatar           : profile.png
   bio              : "Postdoctoral Researcher and Lindemann Fellow in Chemistry"
   location         : "San Diego, CA"
   employer         : "The Scripps Research Institute"
