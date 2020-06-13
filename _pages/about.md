@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### About
+# About
 I am currently a postdoc in [Prof. Jin-Quan Yu's lab](https://www.scripps.edu/yu) at the Scripps Research Institute developing new strategies for C–H activation reactions. I completed my PhD at the University of Cambridge (2019) with [Prof. Ian Paterson FRS](http://www-paterson.ch.cam.ac.uk) working in natural product total synthesis.
 
 I am originally from New Zealand, having completed my undergraduate degree in Music and Science at the University of Auckland. My Honours dissertation was conducted with the supervision of [Prof. Christian Hartinger](https://unidirectory.auckland.ac.nz/profile/c-hartinger) on the development of novel ruthenium-based anticancer therapies
 
 My research interests are in the areas of: organic synthesis, catalysis and chemical biology
 
-#### Publications
+# Publications
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kfa0E-UAAAAJ) for an up-to-date list
 
   12.	Ndukwe, I. E.; Wang, X.; Lam, N. Y. S.; Ermanis, K. E.; Alexander, K. L.; Bertin, M.; Martin, G. E.; Muir, G.; Paterson, I.; Britton, R.; Goodman, J. M.; Piel, J.; Gerwick, W. H.; Williamson, R. T. “Synergism of anisotropic and computational NMR methods reveals the likely configuration of phormidolide A” Chem. Commun. 2020, Accepted [https://dx.doi.org/10.1039/D0CC03055D]
