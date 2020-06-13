@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 ## About
-I am currently a postdoc in [Prof. Jin-Quan Yu's lab](https://www.scripps.edu/yu) at the Scripps Research Institute developing new strategies for C–H activation reactions. I completed my PhD at the University of Cambridge/Trinity College (2019) with [Prof. Ian Paterson FRS](http://www-paterson.ch.cam.ac.uk) working in natural product total synthesis.
+I am currently a postdoc in [Prof. Jin-Quan Yu's lab](https://www.scripps.edu/yu) at the Scripps Research Institute developing new strategies for C–H activation reactions. I completed my PhD at the University of Cambridge/[Trinity College](https://www.trin.cam.ac.uk/) (2019) with [Prof. Ian Paterson FRS](http://www-paterson.ch.cam.ac.uk) working in natural product total synthesis.
 
 I am originally from New Zealand, having completed my undergraduate degree in Music and Science at the University of Auckland. My Honours dissertation was conducted with the supervision of [Prof. Christian Hartinger](https://unidirectory.auckland.ac.nz/profile/c-hartinger) on the development of novel ruthenium-based anticancer therapies
 
 My research interests are in the areas of: organic synthesis, catalysis and chemical biology
+
+Outside of my research interest, I am an avid musician (check out some of my compositions [here](https://soundcloud.com/nelson-ys-lam) and love the outdoors.
 
 ## Publications
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kfa0E-UAAAAJ) for an up-to-date list
