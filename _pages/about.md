@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About
-I am currently a postdoc in [Prof. Jin-Quan Yu's lab](https://www.scripps.edu/yu) at the Scripps Research Institute developing new strategies for C–H activation reactions. I completed my PhD at the University of Cambridge (2019) with [Prof. Ian Paterson FRS](http://www-paterson.ch.cam.ac.uk) working in natural product total synthesis.
+I am currently a postdoc in [Prof. Jin-Quan Yu's lab](https://www.scripps.edu/yu) at the Scripps Research Institute developing new strategies for C–H activation reactions. I completed my PhD at the University of Cambridge/Trinity College (2019) with [Prof. Ian Paterson FRS](http://www-paterson.ch.cam.ac.uk) working in natural product total synthesis.
 
 I am originally from New Zealand, having completed my undergraduate degree in Music and Science at the University of Auckland. My Honours dissertation was conducted with the supervision of [Prof. Christian Hartinger](https://unidirectory.auckland.ac.nz/profile/c-hartinger) on the development of novel ruthenium-based anticancer therapies
 
@@ -63,4 +63,4 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kfa0E-UA
 
   1.	Paterson, I.†; **Lam, N. Y. S.†** 
   “Challenges and discoveries in the total synthesis of complex polyketide natural products” 
-  J. Antibiot. 2017, 71 (2), 215–233 (†Joint first author) [Link](http://dx.doi.org/10.1038/ja.2017.111)
+  *J. Antibiot.* **2017**, *71* (2), 215–233 (†Joint first author) [Link](http://dx.doi.org/10.1038/ja.2017.111)
