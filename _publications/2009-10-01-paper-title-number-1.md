@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Challenges and discoveries in the total synthesis of complex polyketide natural products"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: https://www.nature.com/articles/ja2017111
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Journal of Antibiotics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lam, N. Y. S.,  J. Antibiot. 2017, 71 (2), 215–233'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
