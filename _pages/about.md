@@ -45,32 +45,32 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kfa0E-UA
 
 ### 2018
 
->  ####From catalysis to cancer: Moving towards structure-activity relationships for benzimidazol-2-ylidene-derived N-heterocyclic-carbene complexes as anticancer agents  
+>  #### From catalysis to cancer: Moving towards structure-activity relationships for benzimidazol-2-ylidene-derived N-heterocyclic-carbene complexes as anticancer agents  
 >  **Lam, N. Y. S.**; Truong, D.; Burmeister, H.; Babak, M. V.; Holtkamp, H. U.; Movassaghi, S.; Ayine-Tora, D. M.; Zafar, A.;  Kubanik, M.; Oehninger, L.; Söhnel, T.; Reynisson, Jóhannes; Jamieson, S. M. F.; Gaiddon, C.; Ott, I.; and Hartinger, C. G.  
 >  *Inorg. Chem.* **2018**, *57* (22), 14427–14434 [Link](http://dx.doi.org/10.1021/acs.inorgchem.8b02634)
 
->  #####Toward the total synthesis of patellazole B: synthesis of an advanced C1-C25 fragment corresponding to the macrocyclic skeleton   
+>  ##### Toward the total synthesis of patellazole B: synthesis of an advanced C1-C25 fragment corresponding to the macrocyclic skeleton   
 >  Phillips, A. W.; Anketell, M. J.; Balan, T.; **Lam, N. Y. S.**; Williams S.; Paterson I.  
 >  *Org. Biomol. Chem.* **2018**, *16* (37), 6908–6913 [http://dx.doi.org/10.1039/c8ob01621f]
 
->  ####Unexpected arene ligand exchange results in the oxidation of an organoruthenium anticancer agent: the first X-ray structure of a protein–Ru(carbene) adduct  
+>  #### Unexpected arene ligand exchange results in the oxidation of an organoruthenium anticancer agent: the first X-ray structure of a protein–Ru(carbene) adduct  
 >  Sullivan, M. P.; Nieuwoudt, M. K.; **Lam, N. Y. S.**; Truong, D.; Goldstone, D. C; Hartinger, C. G.  
 >  *Chem. Commun.* **2018**, *54* (48), 6120–6123 [Link](http://dx.doi.org/10.1039/c8cc02433b)
 
->  ####A synthesis-enabled relative stereochemical assignment of the C1-C28 region of hemicalide  
+>  #### A synthesis-enabled relative stereochemical assignment of the C1-C28 region of hemicalide  
 >  Han, B. Y.†; **Lam, N. Y. S.†**; MacGregor, C. I.; Goodman, J. M; Paterson, I.  
 >  *Chem. Commun.* **2018**, *54* (26), 3247–3250  (†Joint first author) [Link](http://dx.doi.org/10.1039/c8cc00933c)
 
->  #####Ruthenium Anticancer Agents Analysis by MEEKC-UV and MEEKC–ICP-MS: Impact of Structural Motifs on Lipophilicity and Biological Activity  
+>  ##### Ruthenium Anticancer Agents Analysis by MEEKC-UV and MEEKC–ICP-MS: Impact of Structural Motifs on Lipophilicity and Biological Activity  
 >  Giringer, K.; Holtkamp, H. U.; Movassaghi, S.; Tremlett, W.; **Lam, N. Y. S.**; Kubanik, M.; Hartinger, C. G.  
 >  *Electrophoresis* **2018**, *39* (9-10), 1201–1207 [Link](http://dx.doi.org/10.1002/elps.201700443)
 
->  ####Quinoline-para-quinones and Metals: Coordination-assisted Formation of Quinoline-ortho-quinones  
+>  #### Quinoline-para-quinones and Metals: Coordination-assisted Formation of Quinoline-ortho-quinones  
 >  Kubanik, M.; **Lam, N. Y. S.**; Holtkamp, H. U.; Söhnel, T.; Anderson, R. F.; Jamieson, S. M. F.; Hartinger, C. G.  
 >  *Chem. Commun.* **2018**, *52* (8), 992-995 [Link](http://dx.doi.org/10.1039/C7CC09478G)
 
 ### 2017
 
->  ####Challenges and discoveries in the total synthesis of complex polyketide natural products  
+>  #### Challenges and discoveries in the total synthesis of complex polyketide natural products  
 >  Paterson, I.†; **Lam, N. Y. S.†**  
 >  *J. Antibiot.* **2017**, *71* (2), 215–233 (†Joint first author) [Link](http://dx.doi.org/10.1038/ja.2017.111)
