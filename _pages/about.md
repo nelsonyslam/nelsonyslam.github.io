@@ -44,8 +44,8 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kfa0E-UA
 
 ### 2018
 
->  From catalysis to cancer: Moving towards structure-activity relationships for benzimidazol-2-ylidene-derived N-heterocyclic-carbene complexes as anticancer agents  
->  **Lam, N. Y. S.**; Truong, D.; Burmeister, H.; Babak, M. V.; Holtkamp, H. U.; Movassaghi, S.; Ayine-Tora, D. M.; Zafar, A.;  Kubanik, M.; Oehninger, L.; Söhnel, T.; Reynisson, Jóhannes; Jamieson, S. M. F.; Gaiddon, C.; Ott, I.; and Hartinger, C. G.  
+>  *From catalysis to cancer: Moving towards structure-activity relationships for benzimidazol-2-ylidene-derived N-heterocyclic-carbene complexes as anticancer agents  
+>  **Lam, N. Y. S.**; Truong, D.; Burmeister, H.; Babak, M. V.; Holtkamp, H. U.; Movassaghi, S.; Ayine-Tora, D. M.; Zafar, A.;  Kubanik, M.; Oehninger, L.; Söhnel, T.; Reynisson, Jóhannes; Jamieson, S. M. F.; Gaiddon, C.; Ott, I.; and Hartinger, C. G.*  
 >  *Inorg. Chem.* **2018**, *57* (22), 14427–14434 [Link](http://dx.doi.org/10.1021/acs.inorgchem.8b02634)
 
 >  Toward the total synthesis of patellazole B: synthesis of an advanced C1-C25 fragment corresponding to the macrocyclic skeleton   
