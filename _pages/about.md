@@ -13,7 +13,7 @@ Originally from New Zealand, I completed my undergraduate degree in Music and Sc
 
 My research interests are: organic synthesis, catalysis and chemical biology
 
-Outside of my research , I am an avid musician (check out some of my [compositions](https://soundcloud.com/nelson-ys-lam)).
+Outside of my research, I am an avid musician (check out some of my [compositions](https://soundcloud.com/nelson-ys-lam)).
 
 ## Publications
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kfa0E-UAAAAJ) for an up-to-date list
