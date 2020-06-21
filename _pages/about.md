@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About
 I am currently a postdoc in [Prof. Jin-Quan Yu's lab](https://www.scripps.edu/yu) at the Scripps Research Institute developing new strategies for C–H activation reactions. My PhD research is on the total synthesis of complex natural product with [Prof. Ian Paterson FRS](http://www-paterson.ch.cam.ac.uk) (2019) at the University of Cambridge/[Trinity College](https://www.trin.cam.ac.uk/).
 
 Originally from New Zealand, I completed my undergraduate degree in Music and Science at the University of Auckland. Under the supervision of [Prof. Christian Hartinger](https://unidirectory.auckland.ac.nz/profile/c-hartinger), my Honours dissertation focused on the development of novel ruthenium-based anticancer therapies
